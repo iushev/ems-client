@@ -1,0 +1,7 @@
+export const SIGN_IN_USER = 'SIGN_IN_USER';
+export const SIGN_OUT_USER = 'SIGN_OUT_USER';
+
+export const FETCHING_USER = 'FETCHING_USER';
+export const RECEIVE_USER = 'RECEIVE_USER';
+export const FETCHING_USER_ERROR = 'FETCHING_USER_ERROR';
+export const CLEAR_USER = 'CLEAR_USER';
